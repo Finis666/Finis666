@@ -13,6 +13,7 @@
 <br>
 <br />
 <h2>Some More Info</h2>
+
 - :hand: My Discord Account: Finis#1948
 - :one::six: Years Old
 
