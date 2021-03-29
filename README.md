@@ -1,4 +1,4 @@
-###Hey, I am Finis :wave:
+### Hey, I am Finis :wave:
 <br />
 <br />
 - :globe_with_meridians: I am currently learning Full Stack Web Development
