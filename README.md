@@ -6,7 +6,6 @@
 <br />
 <h2>2021 GOALS :poop:</h2>
 
-- 🤖 Finish a Discord bot & It's Web Dashboard
 - :unlock: Learn Node Js
 - :open_file_folder: Upload More Repositories
 
