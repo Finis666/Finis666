@@ -13,7 +13,7 @@
 <br />
 <h2>Some More Info</h2>
 
-- :hand: My Discord Account: Finis#1948
+- :hand: My Discord Account: Finis#1643
 - :one::six: Years Old
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finis666)](https://github.com/anuraghazra/github-readme-stats)
