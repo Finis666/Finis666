@@ -1,4 +1,4 @@
-<h1><center>Hey, I am Finis :wave: </center></h1>
+### <center>Hey, I am Finis :wave: </center>
 <br />
 <br />
 - :globe_with_meridians: I am currently learning Full Stack Web Development
