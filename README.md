@@ -6,7 +6,7 @@
 <br />
 <h2>2021 GOALS :poop:</h2>
 
-- :unlock: Learn Node Js
+- :unlock: <del> Learn Node Js </del>
 - :open_file_folder: Upload More Repositories
 
 <br>
