@@ -1,7 +1,7 @@
 ### <h1><center>Hey, I am Finis :wave: </center></h1>
 <br />
 <br />
-- :globe_with_meridians: I am currently learning Full Stack Web Development
+- :globe_with_meridians: Full Stack Web Development
 <br>
 <br />
 <h2>2021 GOALS :poop:</h2>
