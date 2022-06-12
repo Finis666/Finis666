@@ -1,4 +1,3 @@
-[![MasterHead](https://longreads.com/2015/03/18/the-linguistic-morphology-of-reaction-gifs/)](https://longreads.com/2015/03/18/the-linguistic-morphology-of-reaction-gifs/)
 <h1 align="center">Hi 👋, I'm Rom</h1>
 <h3 align="center">I am a FullStack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2016/08/react.gif?fit=640%2C640&ssl=1">
