@@ -3,13 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2016/08/react.gif?fit=640%2C640&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finis666&label=Profile%20views&color=0e75b6&style=flat" alt="finis666" /> </p>
 
-- 🚀 I’m currently working on **Univors**
-
 - 🌱 I’m currently learning **algorithms and rust**
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **Finis#1643**
+- 📫 How to reach me discord - **Finis#1643**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
